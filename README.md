@@ -6,6 +6,7 @@ I wanted to learn how to render graphics and build my own graphics engine in my 
 
 Shaders are compiled using OpenGL for Java. Below is an exerpt from the code that builds the shaders
 
+```
 //Create shader program. Initializes shading properties for an item
 private int createShaderProgram()
 	{ 
