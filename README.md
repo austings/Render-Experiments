@@ -1,5 +1,7 @@
 # Render-Experiments
-I wanted to learn how to render graphics and build my own graphics engine in my freetime. This was an example from Chapter 2 of my textbook
+I wanted to learn how to render graphics and build my own graphics engine in my freetime. This was an example from Chapter 2 of my textbook. The image below is the result. The triangle is rendered in real time with a shader. The triangle moves across the screen and changes colors as it does so
+
+
 ![alt tag](https://github.com/austings/Render-Experiments/blob/master/preview.png)
 
 Shaders are compiled using OpenGL for Java. Below is an exerpt from the code that builds the shaders
