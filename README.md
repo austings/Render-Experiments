@@ -1,7 +1,7 @@
 # Render-Experiments
 I wanted to learn how to render graphics and build my own graphics engine in my freetime. This was an example from Chapter 2 of my textbook. The image below is the result. I use the OpenGL libraries to do this. The triangle is rendered in real time with a shader. The triangle moves across the screen and changes colors as it does so
 
-Right triangle moves right and left across the screen and changes colors according to shader algorithm
+Right triangle moves back and forth horizontally across the screen and changes colors according to shader algorithm
 
 ![alt tag](https://github.com/austings/Render-Experiments/blob/master/pics/preview.png)
 
