@@ -14,7 +14,7 @@ An isococles triangle
 ![alt tag](https://github.com/austings/Render-Experiments/blob/master/pics/preview3.png)
 
 
-Shaders are compiled using OpenGL for Java. Below is an exerpt from the code that builds the shaders
+Shaders are compiled using OpenGL for Java. Below is the exerpt that builds the shaders out
 
 ```
 //Create shader program. Initializes shading properties for an item
